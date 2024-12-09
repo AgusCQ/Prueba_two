@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin }\\Desktop\\Hola\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Admin }\\Desktop\\Repo\\Prueba_two\\Hola\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C135D10-A709-47A7-ACC3-C7DE5C0454CE}|Hola\\Hola.csproj|c:\\users\\admin }\\desktop\\repo\\prueba_two\\hola\\hola\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C135D10-A709-47A7-ACC3-C7DE5C0454CE}|Hola\\Hola.csproj|solutionrelative:hola\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Admin }\\Desktop\\Repo\\Prueba_two\\Hola\\Hola\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Hola\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Admin }\\Desktop\\Repo\\Prueba_two\\Hola\\Hola\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Hola\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T22:46:44.199Z",
+              "EditorCaption": ""
             }
           ]
         }

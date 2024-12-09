@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hola")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+983753765d7ad731261bce3f51103b324b74d0ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hola")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hola")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
